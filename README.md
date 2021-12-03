@@ -1,4 +1,4 @@
-# Advent-of-Code-2021
+# Advent of Code 2021
 
 These are some of my written code solutions in Java for Advent of Code 2021.
 
